@@ -1,4 +1,5 @@
-  {
+[
+{
     "name": "Zyxxyz",
     "production": 1,
     "food": 2,
@@ -32,4 +33,5 @@
         "text": "Zyxxyz n'est pas très malin mais il reste un ennemi redoutable."
       }
     ]
-  },
+  }
+]
